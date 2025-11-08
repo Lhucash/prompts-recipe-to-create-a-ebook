@@ -21,9 +21,11 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  Título  | Crie um título de um ebook sobre o tema de HTML 5. O nicho do ebook é programação e o subnicho é html. O título deve ser forte, épico e curto, com uma temática de literatura medieval. Liste 5 versões.                                                        |
 |  imagem  | Crie uma imagem para a capa desse ebook em uma forja com elementos como cavaleiros, espada e escudo, num estilo gráfico de livros medievais.                 |
-| conteúdo | Faça um resumo da história da linguagem de marcação HTML, da criação até o HTML5. Faça em 2 parágrafos.        |
-           |Faça um resumo da história da linguagem de marcação HTML, da criação até o HTML5. Faça em 2 parágrafos.        |
-Faça um resumo da história da linguagem de marcação HTML, da criação até o HTML5. Faça em 2 parágrafos.
+| conteúdo 1 | Faça um resumo da história da linguagem de marcação HTML, da criação até o HTML5. Faça em 2 parágrafos.        |
+| conteúdo 2 | Faça um resumo do HTML5, comentando como surgiu, o porquê, e principais características. Faça em 2 parágrafos.        |
+| conteúdo 3 | Faça um resumo em 1 parágrafo dos usos do HTML5 em páginas da internet. Depois em outro parágrafo comente suas características principais de forma resumida.   |
+| conteúdo 4 | Faça um resumo comentando sobre o código HTML5, as principais características, e dê um exemplo do código posto em um site. |
+| conteúdo 5 | Faça um resumo sobre o XHTML5 em até 2 parágrafos.   |
 
 
 ## ✨ Features
