@@ -21,8 +21,8 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  Título  | Crie um título de um ebook sobre o tema de HTML 5. O nicho do ebook é programação e o subnicho é html. O título deve ser forte, épico e curto, com uma temática de literatura medieval. Liste 5 versões.                                                        |
 |  imagem  | Crie uma imagem para a capa desse ebook em uma forja com elementos como cavaleiros, espada e escudo, num estilo gráfico de livros medievais.                 |
-| conteúdo | Faça um resumo da história da linguagem de marcação HTML, da criação até o HTML5. Faça em 2 parágrafos.
-Faça um resumo da história da linguagem de marcação HTML, da criação até o HTML5. Faça em 2 parágrafos.
+| conteúdo | Faça um resumo da história da linguagem de marcação HTML, da criação até o HTML5. Faça em 2 parágrafos.        |
+           |Faça um resumo da história da linguagem de marcação HTML, da criação até o HTML5. Faça em 2 parágrafos.        |
 Faça um resumo da história da linguagem de marcação HTML, da criação até o HTML5. Faça em 2 parágrafos.
 
 
